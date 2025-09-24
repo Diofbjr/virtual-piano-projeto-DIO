@@ -38,10 +38,6 @@ Trata-se de um piano virtual interativo que permite tocar notas usando tanto o *
    ```
 2. Abra o arquivo `index.html` no navegador.  
 
-## 📸 Demonstração  
-
-*(Adicione aqui um print ou GIF do piano funcionando quando possível!)*  
-
 ## 👨‍💻 Autor  
 
 Projeto feito com base nas aulas da **DIO**.  
